@@ -1,6 +1,6 @@
 - 👋 Hi, I’m raheel umer
-- 👀 I’m interested in network security,devops,cloud security
-- 🌱 I’m currently learning devops,cyber threats,vulnerabilities,networking. 
+- 👀 I’m interested in devops,cloud.
+- 🌱 I’m currently learning devops tools. 
 - 💞️ I’m looking to collaborate on internships,entry level devops role.
 - 📫 How to reach me https://www.linkedin.com/in/raheel-mohammed-937193282/
 - 😄 Pronouns: ...he/him
