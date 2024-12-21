@@ -1,7 +1,7 @@
 - 👋 Hi, I’m raheel umer
 - 👀 I’m interested in devops,cloud.
 - 🌱 I’m currently learning devops tools. 
-- 💞️ I’m looking to collaborate on internships,entry level devops role.
+- 💞️ I’m looking forward for  internships,entry level devops role.
 - 📫 How to reach me https://www.linkedin.com/in/raheel-mohammed-937193282/
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...always tries to surpass my limits
