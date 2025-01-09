@@ -3,8 +3,7 @@
 
 - 🌱 I’m currently learning **Devops and Cloud.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mrurz10/mrurz10](https://github.com/mrurz10/mrurz10)
-
+- 👨‍💻 All of my projects are available at [https://github.com/mrurz10/mrurz10](https://github.com/mrurz10?tab=repositories)
 - 📫 How to reach me **salauddinumer357@gmail.com**
 
 - ⚡ Fun fact **always tries to surpass my limits**
