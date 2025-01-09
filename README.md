@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm MOHAMMED RAHEEL UMER</h1>
 <h3 align="center">I'm passionate about leveraging automation, collaboration, and continuous integration to streamline development and operations processes, ultimately delivering high-quality software faster and more efficiently</h3>
+<img align="right" alt="Coding" height= "300" width="430" src="https://github.com/mrurz10/mrurz10/blob/main/devOps-cloud-native.gif">
+
 
 - 🌱 I’m currently learning **Devops and Cloud.**
 
